@@ -5,11 +5,11 @@
 Проект разработан в рамках производственной практики (технологическая, проектно-технологическая) в ООО «ГЕОКАД плюс».
 
 Структура папки nsk_terrain:
-- layer.json — индексный файл
+- layer.json - индексный файл
 - папки 0-14 - подпапки с бинарными тайлами расширения .terrain 
-- server.js — веб-сервер на Node.js/Express
-- index.html — клиентская часть на CesiumJS
-- package.json, package-lock.json, node-modules — зависимости Node.js
+- server.js - веб-сервер на Node.js/Express
+- index.html - клиентская часть на CesiumJS
+- package.json, package-lock.json, node-modules - зависимости Node.js
 
 ## Автор
 
@@ -21,4 +21,4 @@
 
 Место практики: ООО «ГЕОКАД плюс», г. Новосибирск
 
-Сроки: 22.06.2026 — 19.07.2026
+Сроки: 22.06.2026 - 19.07.2026
